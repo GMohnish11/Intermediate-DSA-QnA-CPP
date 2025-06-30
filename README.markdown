@@ -1,4 +1,4 @@
-# CPP-Mixed-DSA-Questions
+# CPP-DSA-Questions
 
 ## Overview
 This repository, `CPP-Mixed-DSA-Questions`, contains a collection of intermediate-level Data Structures and Algorithms (DSA) problems in C++, developed by Mohnish Gupta. Covering arrays, strings, linked lists, stacks, and trees, it includes problems like finding element positions, validating parentheses, and checking BSTs. Designed for coding interview preparation and competitive programming, it offers detailed explanations and efficient C++ code.
